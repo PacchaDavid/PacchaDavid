@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me tinder
 - 😄 Pronouns: si
-- ⚡ Fun fact: 
+- ⚡ Fun fact: se murió mi gato
 
 <!---
 PacchaDavid/PacchaDavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
