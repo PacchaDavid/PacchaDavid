@@ -2,9 +2,7 @@
 - 👀 I’m interested in computación
 - 🌱 I’m currently learning computación
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me tinder
-- 😄 Pronouns: si
-- ⚡ Fun fact: se murió mi gato
+- ⚡ Fun fact: Se murió mi gato, No se murió (en pas descanse)
 
 | **Información**     | **Detalles**                           |
 |---------------------|----------------------------------------|
