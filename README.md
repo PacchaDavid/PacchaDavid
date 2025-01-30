@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PacchaDavid
+
 - 👀 I’m interested in computación
 - 🌱 I’m currently learning computación
 - 💞️ I’m looking to collaborate on nothing
@@ -6,13 +6,12 @@
 
 | **Información**     | **Detalles**                           |
 |---------------------|----------------------------------------|
-| **Autor**           | [Tu Nombre de Usuario](https://github.com/tu_usuario) |
-| **Descripción**     | Aplicación para gestionar usuarios y rutinas de un gimnasio. |
+| **Autor**           | [PacchaDavid](https://github.com/PacchaDavid) |
+| **Descripción**     | estudiando computación |
 | **Tecnologías**     | Python, Flask/Django, SQLAlchemy, JWT |
-| **Base de Datos**   | MySQL / PostgreSQL                     |
-| **Licencia**        | MIT                                    |
+| **Base de Datos**   | MySQL                      |                                    |
 | **Versión**         | 1.0.0                                  |
-| **Estado del Proyecto** | En desarrollo / Mantenimiento        |
+| **Estado del Proyecto** | soltero / Mantenimiento        |
 
 <!---
 PacchaDavid/PacchaDavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
