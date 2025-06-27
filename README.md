@@ -30,8 +30,8 @@ While I enjoy exploring different areas, my primary focus is **Backend Developme
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Your Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PacchaDavid&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PacchaDavid&layout=compact&theme=radical&hide_border=true" alt="Your Most Used Languages" />
 </p>
 
 ---
@@ -40,10 +40,12 @@ While I enjoy exploring different areas, my primary focus is **Backend Developme
 
 Feel free to connect if you have any questions or want to collaborate!
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/" target="_blank">
+  Email: david.paccha@unl.edu.ec
+  <!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  </a> -->
   <!-- You can add other social media links if you want, e.g., Twitter -->
   <!-- <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
